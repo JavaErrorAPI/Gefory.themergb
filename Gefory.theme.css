@@ -1,0 +1,64 @@
+/**
+* @name Gefory
+* @author Pᴜʀᴘʟᴇ Wɪᴢᴀʀᴅ#0984
+* @authorLink https://github.com/GoldenLys
+* @version 2.0
+* @invite SBuYeHh
+* @description An amazing RGB theme with full customization included, made by Purple Wizard.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GIBBUHSLFIX.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GameActivityToggle_FIX.css");
+:root {
+--title: "Gefory";
+--background: url(https:/https://external-preview.redd.it/GOkP8onbuyjGmN9Rc8Que5mw21CdSw6OuXpAKUuE6-4.jpg?auto=webp&amp;s=2bc0e522d1f2fa887333286d557466b2be00fa5e);
+--font: "Quicksand";
+--time: 1s;
+--Online: rgb(0, 255, 136);
+--Idle: rgb(0, 99, 156);
+--Unavailable: rgb(228, 15, 0);
+--Offline: rgb(90, 95, 100);
+--Playing: url(https://cdn.discordapp.com/attachments/476154188494143498/680898006937370645/provenance.jpg);
+--Xbox: url(https://cdn.discordapp.com/attachments/476154188494143498/680898003246252176/energyunion.jpg);
+--Spotify: url(https://cdn.discordapp.com/attachments/476154188494143498/680898009122340937/spacestorm.jpg);
+--Streaming: url(https://cdn.discordapp.com/attachments/476154188494143498/680897535828557844/aldebaran.jpg);
+--grey: rgb(77, 70, 85);
+--darkgrey: rgb(18, 18, 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url(https://helpx.adobe.com/content/dam/help/en/photoshop/how-to/create-animated-gif/jcr_content/main-pars/image_4389415/create-animated-gif_3a-v2.gif);
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Hey! Wanna have some fun.. Join US !";
+--AddNewServer: "➕ Add a new server";
+--Close: "X";
+--Resize: "R";
+--Hide: "-";
+--ProfilePic: "Gefory";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "Gefory was here";
+--Watermark: "Made by Gefory";
+--EditStatus: "JavBreak";
+--Folders: "📁";
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--animation: rgb(130, 0, 216), rgb(0, 225, 255);
+--grey5: rgba(77, 70, 85, .5);
+--darkgrey5: rgba(18, 18, 18, .75);
+--Primary: rgb(130, 0, 216);
+} /* Made with Purple Wizard theme generator v2.0, have fun ! */
